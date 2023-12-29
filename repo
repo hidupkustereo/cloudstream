@@ -1,0 +1,8 @@
+{
+    "name": "Hexated",
+    "description": "Hexated providers repository",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/hidupkustereo/cloudstream/main/plugin.json"
+    ]
+  }
